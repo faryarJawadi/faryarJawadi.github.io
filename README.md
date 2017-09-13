@@ -1,7 +1,7 @@
 # faryarJawadi.github.io
 <html>
 <head>
-  <tittle>WebProject</tittle>
+  <title>WebProject</title>
   <style>
     .a{
     color:white;
