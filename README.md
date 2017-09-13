@@ -10,7 +10,7 @@
   </style>  
 </head>
 <body>
-  <div class="a">
+  <div class="a">
     <h1>Welcome to DivClub</h1>
   </div>  
   
