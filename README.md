@@ -1,12 +1,11 @@
 # faryarJawadi.github.io
-<!DOCTYPE html>
 <html>
 <head>
   <title>WebProject</title>
   <style>
     .a{
-    color:blue;
-    backgroundcolor:ffccff;
+    color:white;
+    backgroundcolor:blue;
     }
   </style>  
 </head>
