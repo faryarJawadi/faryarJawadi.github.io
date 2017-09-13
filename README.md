@@ -5,7 +5,7 @@
   <style>
     .a{
     color:white;
-    backgroundcolor:blue;
+    background-color:blue;
     }
   </style>  
 </head>
